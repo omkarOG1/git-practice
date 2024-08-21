@@ -1,2 +1,4 @@
 add a message
 add another file to the folder and commit  it.
+
+add more text to the file
